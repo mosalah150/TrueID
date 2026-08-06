@@ -1,0 +1,12 @@
+# Exclude large binary Excel data
+*.xlsx
+*.xls
+
+# Exclude temporary data and analysis scripts
+all_data.json
+clean_db.json
+generate_clean_db.py
+parse_all_sheets.py
+test_date_parser.py
+build_index_html.py
+clean_index.py
